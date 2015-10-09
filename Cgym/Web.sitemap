@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title=""  description="">
+        <siteMapNode url="~/Default.aspx" title="Home"  description="" />
+        <siteMapNode url="" title="Administracion"  description="Administracion">
+          <siteMapNode url="~/Paginas/BuscarCurso.aspx" title="Curso"  description="Administracion" />
+          <siteMapNode url="~/Paginas/buscarClase.aspx" title="Clase"  description="Administracion" />
+          <siteMapNode url="~/Paginas/BuscarHorario.aspx" title="Horario"  description="Administracion" />
+          <siteMapNode url="~/Paginas/BuscarTrabajador.aspx" title="Trabajadores"  description="Administracion" />
+          <siteMapNode url="~/Paginas/BuscarUsuario.aspx" title="Usuario"  description="Administracion" />        
+        </siteMapNode>
+        <siteMapNode url="" title="Cliente"  description="Cliente">
+          <siteMapNode url="" title="Curso Libre"  description="CLiente" />
+          <siteMapNode url="" title="Inscripcion"  description="CLiente" />
+          <siteMapNode url="" title="Asistencia"  description="CLiente" />
+        </siteMapNode>
+        <siteMapNode url="" title="Marketing"  description="Marketing">
+          <siteMapNode url="" title="Cliente"  description="Marketing" />
+          <siteMapNode url="" title="Paquetes"  description="Marketing" />
+        </siteMapNode>
+        <siteMapNode url="" title="Caja"  description="Caja">
+          <siteMapNode url="" title="Pagos"  description="Caja" />
+          <siteMapNode url="" title="Informe"  description="Caja" />
+        </siteMapNode>
+    </siteMapNode>
+</siteMap>

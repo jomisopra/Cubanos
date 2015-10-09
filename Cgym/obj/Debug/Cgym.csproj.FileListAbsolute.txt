@@ -1,0 +1,198 @@
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\roslyn\csc.exe
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\roslyn\System.Collections.Immutable.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\roslyn\vbc.exe
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\roslyn\VBCSCompiler.exe
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\roslyn\VBCSCompiler.exe.config
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Cgym.dll.config
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Cgym.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Cgym.pdb
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Antlr3.Runtime.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\EntityFramework.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\EntityFramework.SqlServer.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.Google.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Web.Infrastructure.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Newtonsoft.Json.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Owin.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\System.Web.Optimization.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\System.Web.Providers.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\WebGrease.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\System.Web.Optimization.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Antlr3.Runtime.pdb
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Newtonsoft.Json.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\EntityFramework.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\EntityFramework.SqlServer.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\System.Web.Providers.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.Google.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\obj\Debug\Cgym.csprojResolveAssemblyReference.cache
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\obj\Debug\Cgym.dll
+c:\users\baael\documents\visual studio 2015\Projects\Cgym\Cgym\obj\Debug\Cgym.pdb
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\roslyn\csc.exe
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\roslyn\vbc.exe
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Cgym.dll.config
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Cgym.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Cgym.pdb
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Antlr3.Runtime.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\EntityFramework.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Newtonsoft.Json.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Owin.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\System.Web.Optimization.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\System.Web.Providers.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\WebGrease.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\System.Web.Optimization.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Antlr3.Runtime.pdb
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Newtonsoft.Json.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\EntityFramework.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\System.Web.Providers.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Carlos\Desktop\Cgym\Cgym\obj\Debug\Cgym.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\Cgym\Cgym\obj\Debug\Cgym.dll
+C:\Users\Carlos\Desktop\Cgym\Cgym\obj\Debug\Cgym.pdb
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\roslyn\csc.exe
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\roslyn\vbc.exe
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\roslyn\VBCSCompiler.exe
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Cgym.dll.config
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Cgym.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Cgym.pdb
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Antlr3.Runtime.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\EntityFramework.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\EntityFramework.SqlServer.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Newtonsoft.Json.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Owin.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\System.Web.Optimization.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\System.Web.Providers.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\WebGrease.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\System.Web.Optimization.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Antlr3.Runtime.pdb
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Newtonsoft.Json.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\EntityFramework.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\EntityFramework.SqlServer.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\System.Web.Providers.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\obj\Debug\Cgym.csprojResolveAssemblyReference.cache
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\obj\Debug\Cgym.dll
+C:\Users\Baael\Documents\Visual Studio 2015\Projects\GyMCubanos-master\Cgym\obj\Debug\Cgym.pdb

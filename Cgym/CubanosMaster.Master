@@ -1,0 +1,144 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CubanosMaster.master.cs" Inherits="Cgym.CubanosMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <%-- Para pagina responsiva --%>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <%-- Hojas de estilo CSS --%>
+    <link rel="stylesheet" href="/Content/bootstrap.min.css" />
+    <link rel="stylesheet" href="/Content/bootstrap.min.css" />
+    <%-- Importamos JS --%>
+    <%--<script src="Scripts/jquery-2.1.4.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>--%>
+    <script src=" <%= ResolveClientUrl("Scripts/jquery-2.1.4.js") %>"></script>
+    <script src=" <%= ResolveClientUrl("Scripts/bootstrap.min.js") %>"></script>
+
+    <title>Sistema de Gestion "Cubanos GYM"</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-color:rgba(0, 0, 0, 0.20)">
+    <form id="form1" runat="server">
+        <div class="container-fluid">
+            <div class="row clearfix" style="text-align:center">
+                <div class="col-sm-12">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <br /><a runat="server" href="~/Default.aspx"><asp:Image ID="Image1" runat="server" ImageUrl="~/Imagenes/LogoCgym.jpg" /></a>                        
+                            <h4>Cubano's GYM <br /> <small style="color:white">Sistema de Gestion</small></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <%-- Menu --%>
+            <div class="row">
+                <div class="col-sm-12">
+                    <nav class="navbar navbar-default" style="background-color:#ff6a00">
+                        <div class="container-fluid">
+                            <!-- Menu Responsivo para moviles -->
+                                <div class="navbar-header">
+                                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                  </button>
+                                    <a class="navbar-btn" href="../Default.aspx" style="background-image:url(~\Imagenes\home_icon.png)">
+                                        <img alt="Brand" src="../Imagenes/home_icon.png" />
+                                    </a>
+                                </div>
+
+                                <!-- Collect the nav links, forms, and other content for toggling -->
+                                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                  <ul class="nav navbar-nav">
+                                    <li class="dropdown">
+                                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Administracion<span class="caret"></span></a>
+                                      <ul class="dropdown-menu">
+                                        <li><a href="/Paginas/BuscarCurso.aspx">Curso</a></li>
+                                        <li><a href="#">Clase</a></li>
+                                        <li><a href="#">Horario</a></li>
+                                        <li role="separator" class="divider"></li>       
+                                        <li><a href="#">Trabajadores</a></li>
+                                        <li><a href="#">Usuarios</a></li>
+                                      </ul>
+                                    </li>
+
+                                    <li class="dropdown">
+                                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Clientes <span class="caret"></span></a>
+                                      <ul class="dropdown-menu">
+                                        <li><a href="#">Curso libre</a></li>
+                                        <li><a href="#">Inscripcion</a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="/Paginas/RegistrarAsistencia.aspx">Asistencia</a></li>
+                                      </ul>
+                                    </li>
+
+                                    <li class="dropdown">
+                                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Marketing <span class="caret"></span></a>
+                                      <ul class="dropdown-menu">
+                                        <li><a href="#">Clientes</a></li>
+                                        <li><a href="#">Paquetes</a></li>
+                                      </ul>
+                                    </li>
+
+                                    <li class="dropdown">
+                                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Caja <span class="caret"></span></a>
+                                      <ul class="dropdown-menu">
+                                        <li><a href="#">Pagos</a></li>
+                                        <li><a href="#">Informe Diario</a></li>
+                                        <li><a href="#">Informe Mensual</a></li>
+                                      </ul>
+                                    </li>
+                                      
+                                 </ul>
+                                </div><!-- /.navbar-collapse -->
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-sm-12">               
+                    <div class="container-fluid" style=" background-color:rgba(255, 86, 0, 0.50); border-radius:8px">
+                                    En donde me Encuentro                                  
+                    </div>                                                
+                </div>
+            </div>
+            <br />
+
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <nav class="navbar navbar-default">
+                              <div class="container-fluid">
+                                    Sub menu
+                               </div>
+                            </nav>
+                        </div>
+
+                        <div class="col-sm-10">
+                            <div class="container-fluid">
+                                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                </asp:ContentPlaceHolder>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <nav class="navbar navbar-default">
+                              <div class="container-fluid">
+                                    Pie de Pagina
+                               </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+
+    </form>
+</body>
+</html>
